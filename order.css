@@ -1,0 +1,14 @@
+body{
+    background: url("https://image.freepik.com/free-vector/pastel-color-artistic-watercolor-background_1116-207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    border-top: solid 1px black;
+    padding-left: 200px;
+}

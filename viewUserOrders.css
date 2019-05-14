@@ -1,0 +1,17 @@
+body{
+    background: url("https://images.all-free-download.com/images/graphiclarge/abstract_artistic_background_with_flower_in_colorful_vector_illustration_570155.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+td, th{
+    border: solid 1px black;
+}

@@ -1,0 +1,26 @@
+body{
+    background: url("https://images.all-free-download.com/images/graphiclarge/floral_artistic_background_vector_graphic_267715.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: rebeccapurple;
+    font-family: "Brush Script MT";
+}
+
+p{
+    color: royalblue;
+}
+
+.buttons{
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    padding-left: 150px;
+}
+
+.submit{
+    text-align: center;
+    padding-top: 25px;
+}

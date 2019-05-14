@@ -1,0 +1,41 @@
+body{
+    background: url("https://d1yn1kh78jj1rr.cloudfront.net/image/thumbnail/rDtN98Qoishumwih/abstract-illustration-artistic-background_zJg2MpYd_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.welcome{
+    color: purple;
+    font-size: 56px;
+    padding-bottom: 50px;
+    font-family: "Brush Script MT";
+}
+
+.form{
+    border: solid 0.05em;
+    border-radius: 5px;
+}
+
+.header{
+    border: solid 0.05em black;
+    border-bottom: none;
+    border-radius: 5px;
+    text-align: center;
+    background: #5c84c4;
+    color: #e9cfd3;
+}
+
+p{
+    text-align: center;
+}
+
+.email, .password{
+    font-size: 16px;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    padding-bottom: 1em;
+}

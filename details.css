@@ -1,0 +1,37 @@
+body{
+    background: url("https://image.freepik.com/free-vector/pastel-color-artistic-watercolor-background_1116-207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+    text-align: center;
+    border-bottom: solid 1px black;
+}
+
+.print{
+    padding-top: 25px;
+    padding-left: 250px;
+    border-bottom: solid 1px black;
+}
+
+.back{
+    float: left;
+    padding-top: 25px;
+    padding-left: 260px;
+    padding-right: 50px;
+}
+
+.order{
+    padding-top: 25px;
+}
+
+h1{
+    color: rebeccapurple;
+    font-family: "Brush Script MT";
+}
+
+p{
+    color: royalblue;
+}
+
